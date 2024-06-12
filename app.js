@@ -1,0 +1,5 @@
+const hey=require('./promise')
+let he=require('./paractise')
+console.log(he.hello)
+console.log(he.hello1)
+console.log(he.hello3)
